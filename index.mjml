@@ -69,7 +69,7 @@
 
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="40%">
-          <mj-image src="https://signify-health-mgma-email.vercel.app/images/signify-health.png" alt="Signify Health" />
+          <mj-image href="https://www.signifyhealth.com/" src="https://signify-health-mgma-email.vercel.app/images/signify-health.png" alt="Signify Health" />
         </mj-column>
         <mj-column width="60%">
           <mj-text align="right" font-size="12px" padding-top="30px">
