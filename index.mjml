@@ -25,7 +25,7 @@
 
   </mj-head>
   <mj-body background-color="#FFFFFF" width="600px">
-    <mj-section background-url="./images/header-bg.jpg">
+    <mj-section background-url="https://signify-health-mgma-email.vercel.app/images/header-bg.jpg">
       <mj-column width="100%">
         <mj-text color="#ffffff" font-size="20px" font-weight="700" padding-top="264px" padding-right="40px" padding-left="120px" css-class="image-header">
           Looking to improve the health of your patients
@@ -53,7 +53,7 @@
       </mj-section>
       <mj-section background-color="#0097A9" padding-top="0">
         <mj-column width="100%">
-          <mj-image align="center" width="200px" src="./images/mgma-logo.png" alt="MGMA" padding-top="60px" />
+          <mj-image align="center" width="200px" src="https://signify-health-mgma-email.vercel.app/images/mgma-logo.png" alt="MGMA" padding-top="60px" />
         </mj-column>
         <mj-column width="80%" padding-left="0">
           <mj-text color="#FFFFFF" align="center" font-size="20px">
@@ -69,7 +69,7 @@
 
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="40%">
-          <mj-image src="./images/signify-health.png" alt="Signify Health" />
+          <mj-image src="https://signify-health-mgma-email.vercel.app/images/signify-health.png" alt="Signify Health" />
         </mj-column>
         <mj-column width="60%">
           <mj-text align="right" font-size="10px">
