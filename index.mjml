@@ -13,13 +13,14 @@
           padding-left: 0 !important;
           padding-right: 0 !important;
         }
+      }
 
-        .image-header div {
-          background-color: #2498ab !important;
-          padding-left: 40px !important;
-          padding-right: 40px !important;
-          padding-bottom: 20px !important;
-        }
+      .image-header div {
+        background-color: #2498ab !important;
+        padding-right: 45px !important;
+        padding-bottom: 20px !important;
+        padding-left: 35px !important;
+        border-radius: 0 0 0 30px !important;
       }
     </mj-style>
 
@@ -27,7 +28,7 @@
   <mj-body background-color="#FFFFFF" width="600px">
     <mj-section background-url="https://signify-health-mgma-email.vercel.app/images/header-bg.jpg">
       <mj-column width="100%">
-        <mj-text color="#ffffff" font-size="20px" font-weight="700" padding-top="264px" padding-right="40px" padding-left="120px" css-class="image-header">
+        <mj-text color="#ffffff" font-size="20px" font-weight="700" padding-top="264px" padding-right="0" padding-left="82px" css-class="image-header">
           Looking to improve the health of your patients
           and your bottom line? We’ve got you covered.
         </mj-text>
