@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-title>Signify Health</mj-title>
-    <mj-preview>Looking to improve the health of your patients and your bottom line? We’ve got you covered.</mj-preview>
+    <mj-preview> Expect better outcomes for your patients and your business with Signify Health</mj-preview>
     <mj-attributes>
       <mj-all font-family="Lato, Helvetica, Arial, sans-serif"></mj-all>
       <mj-text font-weight="400" font-size="16px" color="#231F20" line-height="26px" font-family="Lato, Helvetica, Arial, sans-serif"></mj-text>
@@ -46,7 +46,7 @@
           <mj-text color="#231F20" font-size="18px" padding-bottom="20px">
             Signify Health helps providers offer a more holistic approach to patient care by aligning incentives, administering programs, and giving them access to the right people, technology, tools, and expertise. Partnering with Signify empowers providers with the data and clinical decision support tools so that their patients—and their businesses—can thrive.
           </mj-text>
-          <mj-button border-radius="4px" background-color="#C1D42F" align="center" color="#524F4C" font-size="18px" href="https://www.signifyhealth.com/" width="200px">
+          <mj-button border-radius="4px" background-color="#C1D42F" align="center" color="#524F4C" font-size="18px" href="https://www.signifyhealth.com/who-we-serve-providers" width="200px">
             LEARN MORE
           </mj-button>
         </mj-column>
