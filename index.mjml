@@ -4,7 +4,7 @@
     <mj-preview>Looking to improve the health of your patients and your bottom line? We’ve got you covered.</mj-preview>
     <mj-attributes>
       <mj-all font-family="Lato, Helvetica, Arial, sans-serif"></mj-all>
-      <mj-text font-weight="400" font-size="16px" color="#231F20" line-height="24px" font-family="Lato, Helvetica, Arial, sans-serif"></mj-text>
+      <mj-text font-weight="400" font-size="16px" color="#231F20" line-height="26px" font-family="Lato, Helvetica, Arial, sans-serif"></mj-text>
     </mj-attributes>
     <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" />
     <mj-style>
