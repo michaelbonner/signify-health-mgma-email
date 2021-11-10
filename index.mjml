@@ -46,7 +46,7 @@
           <mj-text color="#231F20" font-size="18px" padding-bottom="20px">
             Signify Health helps providers offer a more holistic approach to patient care by aligning incentives, administering programs, and giving them access to the right people, technology, tools, and expertise. Partnering with Signify empowers providers with the data and clinical decision support tools so that their patients—and their businesses—can thrive.
           </mj-text>
-          <mj-button border-radius="4px" background-color="#C1D42F" align="center" color="#524F4C" font-size="18px" href="https://google.com" width="200px">
+          <mj-button border-radius="4px" background-color="#C1D42F" align="center" color="#524F4C" font-size="18px" href="https://www.signifyhealth.com/" width="200px">
             LEARN MORE
           </mj-button>
         </mj-column>
